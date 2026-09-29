@@ -1,1 +1,2 @@
 freehuntx/qwen3-coder:8b
+qwen2.5-coder:7b
